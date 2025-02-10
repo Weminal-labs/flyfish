@@ -1,0 +1,12 @@
+[submodule "flyfish-chat"]
+	path = flyfish-chat
+	url = https://github.com/Weminal-labs/flyfish-chat
+[submodule "flyfish-extension"]
+	path = flyfish-extension
+	url = https://github.com/Weminal-labs/flyfish-extension
+[submodule "eliza"]
+	path = eliza
+	url = https://github.com/tung-lee/eliza
+[submodule "flyfish-agent"]
+	path = flyfish-agent
+	url = https://github.com/tung-lee/flyfish-agent
